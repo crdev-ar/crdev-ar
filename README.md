@@ -1,6 +1,4 @@
-<img
-src=“https://github.com/crdev-ar/crdev-ar/blob/1a8ecf19378aff9dcf570b68036852f39538ce82/Banner.jpg"
-/>
+https://github.com/crdev-ar/crdev-ar/blob/1a8ecf19378aff9dcf570b68036852f39538ce82/Banner.jpg
 
 - 👋 Hi, I’m @crdev.ar
 
