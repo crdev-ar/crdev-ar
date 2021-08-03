@@ -1,6 +1,6 @@
 ![Banner](https://user-images.githubusercontent.com/70445507/128014896-c807742e-87b5-41e5-9f57-a258d121f98f.jpg)
 
-- 👋 Hi, I’m @crdev.ar
+- 👋 Hi, I’m Christian.
 
 I´M a passionate about technology and music since I was a child. The computers have been a part of my whole life, I can always remember the feeling of wanting to know how they worked, why they worked and what else they could do.
 
