@@ -1,5 +1,5 @@
 <img
-src=“./banner.png”
+src=“./Banner.png”
 />
 
 - 👋 Hi, I’m @crdev.ar
