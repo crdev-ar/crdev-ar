@@ -1,8 +1,5 @@
 <img
 src=“./banner.png”
-raw=true
-alt=“Subject CR Dev”
-style=“margin-right: 10px;”
 />
 
 - 👋 Hi, I’m @crdev.ar
