@@ -1,4 +1,4 @@
-❮img src=https://github.com/crdev-ar/crdev-ar/blob/1a8ecf19378aff9dcf570b68036852f39538ce82/Banner.jpg width="100" ❯
+❮img src="images/Banner.jpg" width="100" ❯
 - 👋 Hi, I’m @crdev.ar
 
 I´M a passionate about technology and music since I was a child. The computers have been a part of my whole life, I can always remember the feeling of wanting to know how they worked, why they worked and what else they could do.
