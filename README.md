@@ -1,4 +1,4 @@
-<img width="300" alt="Red and Blue Geometric Photo Tech and Gaming Facebook Cover" src="https://user-images.githubusercontent.com/70445507/128064532-3a361e8c-132f-4003-a227-cce173c47d9b.png">
+<img width="1230" alt="Christian Rios" src="https://user-images.githubusercontent.com/70445507/128064766-e5b837e1-dc7f-46f3-827e-1378760b0b70.png">
 
 - 👋 Hi, I’m Christian.
 
